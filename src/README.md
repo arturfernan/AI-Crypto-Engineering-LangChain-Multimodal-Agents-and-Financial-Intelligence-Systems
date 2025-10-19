@@ -1,0 +1,10 @@
+src/agents/README.md
+src/pipelines/README.md
+src/rag/README.md
+src/utils/README.md
+data/raw/README.md
+data/processed/README.md
+data/embeddings/README.md
+models/README.md
+notebooks/README.md
+deploy/README.md
